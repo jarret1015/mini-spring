@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.gradle/4.10.3/vcsMetadata-1/
+.idea/modules/
+framework/build/tmp/compileJava/
+framework/src/main/java/site/jarret/beans/
+framework/src/main/java/site/jarret/context/
+framework/src/main/java/site/jarret/core/
+framework/src/main/java/site/jarret/web/
+framework/src/main/resources/
+framework/src/test/
+test/build/tmp/compileJava/
+test/src/main/resources/
+test/src/test/
