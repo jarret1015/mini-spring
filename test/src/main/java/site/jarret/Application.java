@@ -8,7 +8,6 @@ import site.jarret.starter.MiniApplication;
  */
 public class Application {
     public static void main(String[] args) {
-        System.out.println("Hello Word!");
         MiniApplication.run(Application.class,args);
     }
 }

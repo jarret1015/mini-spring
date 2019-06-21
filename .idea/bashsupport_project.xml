@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BashSupportProjectSettings">
+    <option name="globalVariables">
+      <set>
+        <option value="GRADLE_CYGPATTERN" />
+        <option value="JAVA_HOME" />
+        <option value="JAVA_OPTS" />
+        <option value="args0" />
+        <option value="args1" />
+        <option value="args2" />
+        <option value="args3" />
+        <option value="args4" />
+        <option value="args5" />
+        <option value="args6" />
+        <option value="args7" />
+        <option value="args8" />
+      </set>
+    </option>
+  </component>
+</project>

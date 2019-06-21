@@ -13,4 +13,11 @@ repositories {
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
+
+    //tomcat
+    compile group: 'org.apache.tomcat.embed', name: 'tomcat-embed-core', version: '8.5.23'
+
+    //guava 创建线程池时需要ThreadFactoryBuilder
+    compile group: 'com.google.guava', name: 'guava', version: '28.0-jre'
+
 }
